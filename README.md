@@ -1,1 +1,25 @@
 # ml_journey
+B.Tech CSE (AI/ML) student documenting my machine learning learning path.
+**Started:** April 2026  
+
+## Progress
+- [x] Day 1 — Pandas basics
+- [ ] Day 2 — Filtering and sorting
+- [ ] Day 3 — GroupBy
+- [ ] Day 4 — Merge, Join, Concat
+- [ ] Day 5 — Data Cleaning
+- [ ] Day 6 — apply, lambda, vectorisation
+- [ ] Day 7 — Matplotlib
+- [ ] Day 8 — Seaborn
+- [ ] Day 9 — EDA structure
+- [ ] Day 10 — Project 1 complete
+- [ ] Day 11 — Pivot tables
+- [ ] Day 12 — Statistics
+- [ ] Day 13 — First ML model
+- [ ] Day 14 — Review
+
+## Stack
+Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
+
+## Connect
+https://www.linkedin.com/in/anushkadeb06/
