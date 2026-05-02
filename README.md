@@ -6,7 +6,7 @@ B.Tech CSE (AI/ML) student documenting my machine learning learning path.
 - [x] Day 1 — Pandas basics
 - [x] Day 2 — Filtering and sorting
 - [x] Day 3 — GroupBy
-- [ ] Day 4 — Merge, Join, Concat
+- [x] Day 4 — Merge, Join, Concat
 - [ ] Day 5 — Data Cleaning
 - [ ] Day 6 — apply, lambda, vectorisation
 - [ ] Day 7 — Matplotlib
