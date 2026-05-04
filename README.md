@@ -7,7 +7,7 @@ B.Tech CSE (AI/ML) student documenting my machine learning learning path.
 - [x] Day 2 — Filtering and sorting
 - [x] Day 3 — GroupBy
 - [x] Day 4 — Merge, Join, Concat
-- [ ] Day 5 — Data Cleaning
+- [x] Day 5 — Data Cleaning
 - [ ] Day 6 — apply, lambda, vectorisation
 - [ ] Day 7 — Matplotlib
 - [ ] Day 8 — Seaborn
