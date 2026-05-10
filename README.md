@@ -10,7 +10,7 @@ B.Tech CSE (AI/ML) student documenting my machine learning learning path.
 - [x] Day 5 — Data Cleaning
 - [x] Day 6 — apply, lambda, vectorisation
 - [x] Day 7 — Matplotlib
-- [ ] Day 8 — Seaborn
+- [X] Day 8 — Seaborn
 - [ ] Day 9 — EDA structure
 - [ ] Day 10 — Project 1 complete
 - [ ] Day 11 — Pivot tables
